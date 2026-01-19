@@ -1,0 +1,6 @@
+Hello MCP!
+This file is safe to read.
+Claude LLM is connected to my MCP
+
+
+My MCP is secure and bug free
