@@ -1,5 +1,12 @@
 
 #  MCP AI Memory — Personal AI Ops Assistant
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-purple)
+![Claude](https://img.shields.io/badge/LLM-Claude%20Desktop-orange)
+![Architecture](https://img.shields.io/badge/Architecture-Agentic%20AI-blueviolet)
+![Security](https://img.shields.io/badge/Security-Sandboxed%20Execution-success)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 
 A **secure, local, MCP-based AI memory system** that enables an LLM (Claude Desktop) to **store, search, and reason over persistent personal memory** using controlled tools.
 
@@ -25,6 +32,16 @@ Using natural language prompts, the AI can:
 All memory is stored **locally on disk**, not inside the LLM.
 
 ---
+
+---
+
+## Architecture Diagram
+
+<img width="1408" height="768" alt="arch" src="https://github.com/user-attachments/assets/8966183c-a549-4954-b67c-5b7581d41eab" />
+
+
+
+
 
 ##  Example Commands (Try These in Claude Desktop)
 
